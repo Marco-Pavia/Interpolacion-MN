@@ -72,14 +72,14 @@ double xEval = 2.5;
 
 ### Desde la terminal
 
-1. Clona el repositorio (o descarga los archivos en una carpeta llamada `Interpolación`):
+1. Clona el repositorio (o descarga los archivos en una carpeta llamada `Interpolacion-MN-main`):
    ```bash
    git clone https://github.com/Marco-Pavia/Interpolacion-MN.git
    cd Interpolacion-MN
    ```
-2. Compila todos los archivos desde la carpeta raíz (la que contiene a `Interpolación/`):
+2. Compila todos los archivos desde la carpeta raíz (la que contiene a `Interpolacion-MN-main/`):
    ```bash
-   javac -encoding UTF-8 Interpolación/*.java
+   javac -encoding UTF-8 Interpolacion-MN-main/*.java
    ```
 3. Ejecuta la clase principal:
    ```bash
